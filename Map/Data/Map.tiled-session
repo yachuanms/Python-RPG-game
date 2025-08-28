@@ -1,0 +1,188 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "D:/Desktop/Mix/Map/Data/tmx/Map2.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "D:/Desktop/Mix/Map/Data/tmx/123.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/Desktop/Mix/Map/Data/tmx/Map.tmx": {
+            "expandedObjectLayers": [
+                13,
+                21
+            ],
+            "scale": 0.75,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 800,
+                "y": 639.3333333333333
+            }
+        },
+        "D:/Desktop/Mix/Map/Data/tmx/Map2.tmx": {
+            "scale": 0.3005859375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 801.7673814165043,
+                "y": 209.59064327485373
+            }
+        },
+        "D:/Desktop/Mix/Map/Data/tmx/PathAndObjects.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Desktop/Mix/Map/Data/tmx/tree.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Desktop/Mix/Map/Data/tsx/Atlas.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Desktop/Mix/Map/Data/tsx/DEC.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "D:/Desktop/Mix/Map/Data/tsx/HOUSE.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Desktop/Mix/Map/Data/tsx/TREE.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Desktop/Mix/Map/Data/tsx/assets_spritesheet_v2_free.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "D:/Desktop/Mix/Map/Data/tsx/dirtpath_tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Desktop/Mix/Map/Data/tsx/ground_decorations.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Desktop/Mix/Map/Data/tsx/terrain_tiles_v2.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Desktop/Mix/Map/Data/tsx/water_and_island_tiles_v2.tsx": {
+            "scaleInDock": 1
+        },
+        "tmx/Map.tmx": {
+            "expandedObjectLayers": [
+                22,
+                13,
+                21
+            ],
+            "scale": 1,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 800,
+                "y": 638.5
+            }
+        },
+        "tmx/Map.tmx#tree": {
+            "dynamicWrapping": true
+        },
+        "tmx/PathAndObjects.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tmx/tree.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/Atlas.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 0.5
+        },
+        "tsx/DEC.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/HOUSE.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/TREE.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/assets_spritesheet_v2_free.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/decorations.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "tsx/dirtpath_tiles.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "tsx/ground_decorations.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "tsx/terrain_tiles_v2.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 2
+        },
+        "tsx/water_and_island_tiles_v2.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 2
+        }
+    },
+    "last.exportedFilePath": "D:/Desktop",
+    "last.imagePath": "D:/Desktop/Map/Graphics/Tileset",
+    "map.height": 80,
+    "map.lastUsedExportFilter": "Tiled map files (*.tmx *.xml)",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 100,
+    "openFiles": [
+        "tmx/Map.tmx",
+        "tsx/terrain_tiles_v2.tsx",
+        "tsx/water_and_island_tiles_v2.tsx",
+        "tsx/assets_spritesheet_v2_free.tsx",
+        "tsx/ground_decorations.tsx",
+        "tsx/decorations.tsx",
+        "tsx/dirtpath_tiles.tsx",
+        "tsx/HOUSE.tsx",
+        "tmx/tree.tsx",
+        "D:/Desktop/Mix/Map/Data/tmx/Map.tmx",
+        "D:/Desktop/Mix/Map/Data/tmx/123.tsx",
+        "tmx/PathAndObjects.tsx",
+        "D:/Desktop/Mix/Map/Data/tmx/Map2.tmx"
+    ],
+    "project": "Map.tiled-project",
+    "recentFiles": [
+        "tmx/Map.tmx",
+        "tsx/terrain_tiles_v2.tsx",
+        "tsx/water_and_island_tiles_v2.tsx",
+        "tsx/assets_spritesheet_v2_free.tsx",
+        "tsx/ground_decorations.tsx",
+        "tsx/decorations.tsx",
+        "tsx/dirtpath_tiles.tsx",
+        "tsx/HOUSE.tsx",
+        "tmx/tree.tsx",
+        "D:/Desktop/Mix/Map/Data/tmx/Map.tmx",
+        "D:/Desktop/Mix/Map/Data/tmx/123.tsx",
+        "tmx/PathAndObjects.tsx"
+    ],
+    "tileset.embedInMap": false,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.type": 0
+}
